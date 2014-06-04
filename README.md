@@ -1,12 +1,12 @@
 irceline-xively
 ===============
 
-This repository contains all info to access IRCELINE's (www.irceline.be) sensor data for Ghent through Xively.
+This repository contains all info to access IRCEL-CELINE's (www.irceline.be) sensor data for Ghent through Xively.
 
 IRCEL - CELINE
 ==============
 
-IRCEL - CELINE is the Belgian federal agency which gathers and informs about amlbient air quality in the Belgian regions. Find out more on www.irceline.be
+IRCEL - CELINE is the Belgian Interregional Environment Agency (http://www.irceline.be/) which informs you about ambient air quality in the Belgian Regions. The air quality monitoring stations in Flanders (and the Ghent region) are operated/managed by the Flemish Environment Agency (http://www.vmm.be/) www.irceline.be
 
 Xively
 ======
@@ -37,6 +37,6 @@ BETR750: https://xively.com/feeds/303466637
 
 License
 =======
-Live air quality data for Gent, Belgium, made available by IRCEL - CELINE. IRCEL - CELINE data is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License @ http://creativecommons.org/licenses/by-nc-nd/3.0/
 
+Live air quality data for Ghent, Belgium is made available by IRCEL - CELINE. IRCEL - CELINE data is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License @http://creativecommons.org/licenses/by-nc-nd/3.0/
 
